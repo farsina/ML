@@ -1,4 +1,4 @@
-# classification of tweet sentiments
+# Classification of tweet sentiments
 
 # Importing the libraries
 
@@ -139,7 +139,7 @@ print('cross-validation scores (5-fold):', cv_scores)
 print('mean cross-validation score (5-fold):', round(np.mean(cv_scores), 3))
 
 
-## confusion matrix, accuracy score, classification report
+
 
 # Importing evaluation modules
 
